@@ -25,5 +25,5 @@ Here are some ideas to get you started:-->
 ![](https://github-readme-stats.vercel.app/api?username=jerry-bit&show_icons=true&theme=dark&count_private=true)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jerry-bit&theme=xcode&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
