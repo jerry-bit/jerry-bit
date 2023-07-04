@@ -20,10 +20,10 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: haha ...
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-bit&theme=dark&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-bit&theme=dark&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=jerry-bit&show_icons=true&theme=dark&count_private=true)
-
+-->
 
 
 
