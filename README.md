@@ -21,6 +21,20 @@ Here are some ideas to get you started:-->
 <!-- - 😄 Pronouns:  -->
 - ⚡ Fun fact: haha ... cloudreve
 
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-bit&theme=dark&layout=compact)
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=jerry-bit&show_icons=true&theme=dark&count_private=true)
+
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=jerry-bit&theme=onedark)
+
+
+
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-bit&theme=dark&layout=compact)
 
