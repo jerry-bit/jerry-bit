@@ -23,7 +23,9 @@ Here are some ideas to get you started:-->
 
 <br>
 
+<!---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-bit&theme=dark&layout=compact)
+-->
 
 <br>
 
