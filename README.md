@@ -34,10 +34,6 @@ Here are some ideas to get you started:-->
 
 <br>
 
-
-
-<br>
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=jerry-bit&theme=onedark)
 
 
