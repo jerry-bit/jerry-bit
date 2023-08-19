@@ -43,12 +43,12 @@ Here are some ideas to get you started:-->
 ![](https://github-readme-stats.vercel.app/api?username=jerry-bit&show_icons=true&theme=dark&count_private=true)
 -->
 
-<br>
+<!-- <br>
 我生活的世界很不真实
 <br>
 也许是我沉迷虚拟世界太深了，我时常告诉自己一切都是假的，但他们又是真实的出现在我面前
 <br>
-我开始难以分辨出现实与梦境，因为他们都同样真实，又同样虚伪
+我开始难以分辨出现实与梦境，因为他们都同样真实，又同样虚伪 -->
 <br>
 时间流逝吧，你是多么残酷
 <!-- Recordings:
