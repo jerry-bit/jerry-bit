@@ -1,13 +1,7 @@
 # Hi there 👋
 <br>
-<!-- 我分不清现实和梦境??? -->
-<br>
-<!-- ![JLOCq0th_7884b2ee58920254200b88dd76e6e69b](https://github.com/jerry-bit/jerry-bit/assets/52237728/7a58c923-601d-4f3d-b507-1b4807233237) -->
 
-
-<br>
-
-
+me
 <!--
 **jerry-bit/jerry-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
