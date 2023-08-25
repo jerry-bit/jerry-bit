@@ -43,9 +43,9 @@ Here are some ideas to get you started:-->
 <br>
 For those who have passed away, time has lost its meaning
 <br>
-但经过一段无法被定义的时间后
+But after a period of time that cannot be defined
 <br>
-每个人都将迎来属于他们自己的庞加莱回归
+Everyone will welcome their own Poincaré recurrence
 <br>
 
 <br>
