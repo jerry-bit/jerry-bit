@@ -39,7 +39,7 @@ Here are some ideas to get you started:-->
 
 
 <br>
-时间流逝吧，你是多么残酷
+時間が経ち、あなたはどれほど残酷ですか
 <br>
 For those who have passed away, time has lost its meaning
 <br>
