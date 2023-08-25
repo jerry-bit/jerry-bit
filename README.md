@@ -37,24 +37,15 @@ Here are some ideas to get you started:-->
 ![](https://github-readme-stats.vercel.app/api?username=jerry-bit&show_icons=true&theme=dark&count_private=true)
 -->
 
-<!-- <br>
-我生活的世界很不真实
-<br>
-也许是我沉迷虚拟世界太深了，我时常告诉自己一切都是假的，但他们又是真实的出现在我面前
-<br>
-我开始难以分辨出现实与梦境，因为他们都同样真实，又同样虚伪 -->
+
 <br>
 时间流逝吧，你是多么残酷
 <br>
-对于已经去世的人们来说时间已经失去了意义
+For those who have passed away, time has lost its meaning
 <br>
 但经过一段无法被定义的时间后
 <br>
 每个人都将迎来属于他们自己的庞加莱回归
 <br>
-<!-- Recordings:
-<br>
-20230129早上 我疯了 像换了一个人似的 😨
-<br>
-20230804傍晚 我疯了 😭 -->
+
 <br>
