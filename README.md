@@ -1,6 +1,9 @@
 # Hi there 👋
 <br>
 H H H H H H H H H H H H H H H H H H H H H H H H H H H H H
+<br>
+### 我的RTX2060（2020年11月11日-2023年12月27日）由于长期高强度工作，劳累过度，于2023年12月27日上午11时27分在Cyberpunk2077德拉曼停车场入口逝世。
+### 谨以此纪念在拯救者上辛勤工作了1151天的 RTX2060 
 <!--
 **jerry-bit/jerry-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
