@@ -47,7 +47,7 @@ Here are some ideas to get you started:-->
 ![](https://github-readme-stats.vercel.app/api?username=jerry-bit&show_icons=true&theme=dark&count_private=true)
 -->
 
-<a>
+<p>
   <svg
         width="467"
         height="195"
@@ -278,7 +278,7 @@ Here are some ideas to get you started:-->
   
         </g>
       </svg>
-</a>
+</p>
 
 
 
