@@ -2,20 +2,12 @@
 <br>
 <!-- H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H -->
 <br>
-
 <!--#### <del>RTX2060</del>-->
-
 I QUIT
-
 ------------------
-
-
-
 <!--
 **jerry-bit/jerry-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:-->
-
 <!--- 🔭 I’m currently working on designing a compressed garbage bin ...
 - 🌱 I’m currently learning machine design ...
  - 👯 I’m looking to collaborate on ... 
@@ -26,30 +18,17 @@ Here are some ideas to get you started:-->
 -->
 <!-- - 😄 Pronouns:  
 - ⚡ Fun fact: <del>HACKINTOSH!</del> OPENCORE!-->
-
 <br>
-
 <!---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-bit&theme=dark&layout=compact)
-
-
 <br>
-
 ![](https://github-readme-stats.vercel.app/api?username=jerry-bit&show_icons=true&theme=dark&count_private=true)
-
 <br>
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=jerry-bit&theme=onedark)
 -->
-
-
-
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-bit&theme=dark&layout=compact)
-
 ![](https://github-readme-stats.vercel.app/api?username=jerry-bit&show_icons=true&theme=dark&count_private=true)
 -->
-
-
 <br>
 <!-- 時間が経ち、あなたはどれほど残酷ですか -->
 <br>
@@ -59,5 +38,4 @@ Here are some ideas to get you started:-->
 <br>
 <!-- Everyone will welcome their own Poincaré recurrence -->
 <br>
-
 <br>
