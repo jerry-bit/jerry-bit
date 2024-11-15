@@ -1,11 +1,11 @@
 # Hi there 👋
 <br>
-H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H
+<!-- H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H H -->
 <br>
 
 <!--#### <del>RTX2060</del>-->
 
-
+I QUIT
 
 ------------------
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:-->
 
 <!---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-bit&theme=dark&layout=compact)
--->
+
 
 <br>
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:-->
 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jerry-bit&theme=onedark)
-
+-->
 
 
 
